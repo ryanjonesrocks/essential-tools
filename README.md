@@ -15,27 +15,27 @@ This repository contains a script to automate the installation of preferred tool
 
 ### 1. Clone the repository:
 
-\```bash
+```bash
 git clone https://github.com/yourusername/your-repo-name.git
-\```
+```
 
 ### 2. Navigate to the directory:
 
-\```bash
+```bash
 cd your-repo-name
-\```
+```
 
 ### 3. Make the script executable:
 
-\```bash
+```bash
 chmod +x install_tools.sh
-\```
+```
 
 ### 4. Run the script:
 
-\```bash
+```bash
 ./install_tools.sh
-\```
+```
 
 ## Supported Distributions
 
